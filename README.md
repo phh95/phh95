@@ -10,6 +10,7 @@ I'm angola, a new-media editor.
 - ⚡ Fun fact: ...
 - :satisfied: 这是新增加的表情包       
 - 🔧 My power tools：  
+</br>    
 ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-blue)     
 ![](https://img.shields.io/badge/%E5%9B%BE%E5%BA%8A-MWeb-lightgrey)       
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)      
