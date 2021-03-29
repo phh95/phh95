@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm angola, a new-media editor.    
+
+- 🔭 I’m currently striveing for a better life in Guangzhou.     
+- 🌱 I’m currently learning ...    
+- 🤔 My blog: 效率工具指南       
+- 💬 Ask me about ...
+- 📫 How to reach me: 602646761#qq.com      
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+
 <!--
 **phh95/phh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
