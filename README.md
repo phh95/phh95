@@ -2,7 +2,7 @@
 
 I'm angola, a new-media editor.    
 
-- 🔭 I’m currently striveing for a better life in Guangzhou.     
+- 🔭 I’m currently striving for a better life in Guangzhou.     
 - 🌱 I’m currently learning ...    
 - 🤔 My blog: 效率工具指南       
 - 💬 Ask me about ...
