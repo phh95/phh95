@@ -3,7 +3,7 @@
 I'm angola, a new-media editor.    
 
 - 🔭 I’m currently striving for a better life in Guangzhou.     
-- 🔧 My power tools：![](https://img.shields.io/badge/写作工具-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)    
+- 🔧 My power tools：![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-blue)    
 - 🤔 My blog 👉 https://penghh.fun/         
 - 💬 Ask me some questions about Effeciency Tools 👉 https://wx.zsxq.com/dweb2/index/group/88512424255582
 - 📫 My E-mail: 602646761#qq.com      
