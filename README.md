@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm angola, a new-media editor.    
-
 ![Angola peng's Github Stats](https://metrics.lecoq.io/phh95)
+
+I'm angola, a new-media editor.    
 
 - 🔭 I’m currently striving for a better life in Guangzhou.     
 - 🤔 My blog 👉 https://penghh.fun/         
