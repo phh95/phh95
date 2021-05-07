@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Angola peng's Github Stats](https://metrics.lecoq.io/phh95)
+[![Angola peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=phh95)](https://github.com/anuraghazra/github-readme-stats)     
+![Angola peng's Github Stats](https://metrics.lecoq.io/phh95)     
 
 I'm angola, a new-media editor.    
 
