@@ -2,6 +2,8 @@
 
 I'm angola, a new-media editor.    
 
+![Angola peng's Github Stats](https://metrics.lecoq.io/phh95)
+
 - 🔭 I’m currently striving for a better life in Guangzhou.     
 - 🤔 My blog 👉 https://penghh.fun/         
 - 💬 Ask me some questions about Effeciency Tools 👉 https://wx.zsxq.com/dweb2/index/group/88512424255582
