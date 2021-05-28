@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-[![Angola peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=phh95)](https://github.com/anuraghazra/github-readme-stats)
+[![Angola peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=phh95&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phh95&layout=compact&hide_border=true&langs_count=10)
-![Angola peng's Github Stats](https://metrics.lecoq.io/phh95)  
-
 
 I'm angola, a new-media editor.    
 
@@ -19,11 +17,6 @@ I'm angola, a new-media editor.
 ![VS Code](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-blue)     
 ![](https://img.shields.io/badge/%E5%9B%BE%E5%BA%8A-MWeb-lightgrey)       
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)   
-
-### Contact me in Zhihu
-[![Angola peng's Zhihu stats](https://stats.justsong.cn/api/zhihu?username=angola-84)]()
-
-
 
 <!--
 **phh95/phh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
