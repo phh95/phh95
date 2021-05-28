@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=phh95&show_icons=true&count_private=true&theme=gotham)    
 [![Angola peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=phh95)](https://github.com/anuraghazra/github-readme-stats)
 ![Angola peng's Github Stats](https://metrics.lecoq.io/phh95)  
-![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=phh95&show_icons=true&count_private=true&theme=gotham)    
+
 
 I'm angola, a new-media editor.    
 
