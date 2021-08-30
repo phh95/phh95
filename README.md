@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 66.03 %
+⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 66.10 %
 
 ---
 
-⏰ Updated on Mon, 30 Aug 2021 00:22:07 GMT
+⏰ Updated on Mon, 30 Aug 2021 06:07:16 GMT
 
 ---
 
@@ -15,7 +15,7 @@ I'm angola, a new-media editor.
 
 - 🔭 I’m currently striving for a better life in Guangzhou.     
 - 🤔 My blog 👉 https://penghh.fun/         
-- 💬 Ask me some questions about Effeciency Tools 👉 https://t.zsxq.com/AQjmu3v      
+- 💬 Ask me some questions about Effeciency Tools 👉 https://wx.zsxq.com/dweb2/index/group/88512424255582
 - 📫 My E-mail: 602646761#qq.com          
 - 🔧 My Power Tools: </br>   
 ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-blue)     
