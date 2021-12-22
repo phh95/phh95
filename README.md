@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <a href="https://github.com/phh95/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/phh95/iBeats/main/files/heart.svg"/></a>
 
 ⏳ Year progress { █████████████████████████████▁ } 97.40 %
 
