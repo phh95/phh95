@@ -1,10 +1,10 @@
-### Hi there 👋 <a href="https://github.com/phh95/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/phh95/iBeats/main/files/heart.svg"/></a>
+### Hi there 👋
 
-⏳ Year progress { █████████████████████████████▁ } 97.40 %
+⏳ Year progress { █████████████████████████████▁ } 97.47 %
 
 ---
 
-⏰ Updated on Wed, 22 Dec 2021 12:11:01 GMT
+⏰ Updated on Wed, 22 Dec 2021 18:07:55 GMT
 
 ---
 ### My GitHub Contributions    
