@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 1.24 %
+⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 1.30 %
 
 ---
 
-⏰ Updated on Wed, 05 Jan 2022 12:11:36 GMT
+⏰ Updated on Wed, 05 Jan 2022 18:08:05 GMT
 
 ---
 ### My GitHub Contributions    
@@ -20,7 +20,7 @@ I'm angola, a new-media editor.
 
 - 🔭 I’m currently striving for a better life in Guangzhou.     
 - 🤔 My blog 👉 https://penghh.fun/         
-- 💬 Ask me some questions about Effeciency Tools 👉 https://t.zsxq.com/7eaqbqZ      
+- 💬 Ask me some questions about Effeciency Tools 👉 https://wx.zsxq.com/dweb2/index/group/88512424255582
 - 📫 My E-mail: 602646761#qq.com          
 - 🔧 My Power Tools: </br>   
 ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-blue)     
