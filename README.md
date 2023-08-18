@@ -1,19 +1,15 @@
 ### Hi there 👋
 
-⏳ Year progress { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 62.81 %
+⏳ Year progress { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 62.88 %
 
 ---
 
-⏰ Updated on Fri, 18 Aug 2023 06:08:39 GMT
+⏰ Updated on Fri, 18 Aug 2023 12:12:04 GMT
 
 ---
 ### My GitHub Contributions    
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phh95/phh95/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phh95/phh95/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/phh95/phh95/output/github-contribution-grid-snake.svg">
-</picture>  
+![](https://raw.githubusercontent.com/phh95/phh95/main/assets/github-contribution-grid-snake.svg)          
 
 ### About me      
 
